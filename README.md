@@ -6,7 +6,7 @@ I learned a lot from the open-source community and i love how collaboration and 
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" height="230" />
 
-- 💼 do reach me, [email](mailto:leopold.weber@bmw.de) :)
+- 💼 do reach me, [email](mailto:leopoldweber123@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
